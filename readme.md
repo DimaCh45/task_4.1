@@ -7,8 +7,10 @@ LICENSE: [MIT](./license.md)
 
 ----
 ### Содержание:
-1. Что то 
-2. [git add](./add.md)
+  1. [Установка GIT](./install.md)
+  2. [Подготовка, создание репозитория](./create_repozit.md)
+  3. [git add](./add.md)
+  4. [git status](./git_status)
 
 
 
