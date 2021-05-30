@@ -18,4 +18,7 @@ git config --global user.name "[имя]"
  git config --global user.email "[адрес электронной почты]"
  ```
 
+ 
+***
+
 ### ***Следующий шаг [Подготовка, создание репозитория](./create_repozit.md)***

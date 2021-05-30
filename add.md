@@ -17,4 +17,7 @@ git add readme.md
 git commit -m "First Commit"
 ```
 
+
+***
+
 ### ***Следующий шаг [GIT status](./git_status.md)***

@@ -57,4 +57,6 @@ git commit -m "Update readme.md"
 ```
 
 
+***
+
 ### ***Следующий шаг [GIT status](./git_status.md)***

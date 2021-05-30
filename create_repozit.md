@@ -32,5 +32,5 @@ git config --global core.quotepath off
 ```
 git init [название папки]
 ```
-
+***
 ### ***Следующий шаг [Add](./add.md)***
