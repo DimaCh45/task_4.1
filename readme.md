@@ -11,6 +11,7 @@ LICENSE: [MIT](./license.md)
   2. [Подготовка, создание репозитория](./create_repozit.md)
   3. [git add](./add.md)
   4. [git status](./git_status.md)
+  5. [gitignore](./gitignore.md)
 
 
 
