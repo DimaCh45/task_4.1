@@ -12,6 +12,8 @@ LICENSE: [MIT](./license.md)
   3. [git add](./add.md)
   4. [git status](./git_status.md)
   5. [gitignore](./gitignore.md)
+  6. [git log](./gitlog.md)
+
 
 
 
