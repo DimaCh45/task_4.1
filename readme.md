@@ -9,12 +9,12 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
   1. [Установка GIT](./install.md)
   2. [Подготовка, создание репозитория](./create_repozit.md)
-  3. [git add](./add.md)
-  4. [git commit](./commit.md)
-  5. [git status](./git_status.md)
-  6. [gitignore](./gitignore.md)
-  7. [git log](./gitlog.md)
-  8. 
+  3. [Добавление в индекс и удаление git add](./add.md)
+  4. [Комментарии git commit](./commit.md)
+  5. [Проверка статуса git status](./git_status.md)
+  6. [Скрытые файлы gitignore](./gitignore.md)
+  7. [Работа с историей git log](./gitlog.md)
+  8. [Ветвление git branch](./gitbranch.md)
 
 
 

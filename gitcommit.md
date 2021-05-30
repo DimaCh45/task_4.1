@@ -29,4 +29,4 @@ $ git commit --amend
 
 ***
 
-### ***Следующий шаг [GIT status](./git_status.md)***
+### ***Следующий шаг [Проверка состояния git status](./git_status.md)***

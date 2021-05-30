@@ -66,4 +66,4 @@ git commit -m "Update readme.md"
 
 ***
 
-### ***Следующий шаг [gitignore](./gitignore.md)***
+### ***Следующий шаг [Скрытые файлы gitignore](./gitignore.md)***
