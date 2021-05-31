@@ -34,4 +34,4 @@ git add readme.md
 
 ***
 
-### ***Следующий шаг [Комментарии git commit](./commit.md)***
+### ***Следующий шаг [Комментарии git commit](./gitcommit.md)***
