@@ -4,3 +4,4 @@
 *.swo
 *.ntvs*
 *.sw?
+.gitignore

@@ -16,7 +16,12 @@ LICENSE: [MIT](./license.md)
   7. [Работа с историей git log](./gitlog.md)
   8. [Ветвление git branch](./gitbranch.md)
   9. [Синхронизация с удаленным репозиторием git push](./gitpush.md)
-  10. 
+  10. [Шпаргалка по отладке](./list.md)
+  11. [Ссылки на материал](./links.md)
+
+  
+
+
 
 
 
